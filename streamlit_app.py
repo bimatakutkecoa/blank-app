@@ -1,7 +1,6 @@
 st.title("welcome to the web")
 st.write(
     "Halooo, terimaksih sudah masuk.")
-st.write("n\")
 st.title("Kosambi day")
 st.write(
     "jadi hari ini aku nganterin kylie asyifa rizky ke kosambi buat ngeciin baju batik dupul gaiss, dan ternyata ngecilin bantiknya bisa ditunggu sekitar 20 menitan, tapiii...karena kita gatau mau ngapain jai aku ajak di jalan jalan keliling bandung gais...SERU BANGET.")
